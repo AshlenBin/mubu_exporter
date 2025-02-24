@@ -6,6 +6,7 @@
 本项目导出的文档格式为`html`，而后可以通过`html2md.py`将其转为`markdown`格式。如果你想导出`pdf`或`doc`格式，网上已有插件`Mubu Dumper`可用。
 
 ## 使用方式
+文件有很多个，但你只需打开`main.py`
 
 ### 获取`get_all_documents_page.json`（需手动获取）
 - 先在网页端打开幕布，登录账号，进入“我的文档”界面
